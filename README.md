@@ -10,11 +10,10 @@ The AirDrop design project focused on the best-performing Decentralized Validato
 
 ## Performance Metrics
 
-> [!IMPORTANT]
-> The following metrics were selected to evaluate the performance of DVNs:
-> - Number of transactions (successful, failed, pending)
-> - Time taken to process transactions
-> - Value/data handled from these transactions
+ The following metrics were selected to evaluate the performance of DVNs:
+ - Number of transactions (successful, failed, pending)
+ - Time taken to process transactions
+ - Value/data handled from these transactions
 
 ## Data Collection and Analysis
 
@@ -30,11 +29,10 @@ You can find the script used to collect, normalize, and clean the data in this n
 
 ## POC for AirDrop Design
 
-> [!NOTE]
-> Although the data from the API response did not provide significant insights into DVN performance based on the selected metrics, I hope that the upcoming LayerZero API will enable more comprehensive analysis. Beyond the airdrop design, it would be fascinating to work on Omnichain application (OApp) analysis, leveraging data from different blockchain networks simultaneously.
+Although the data from the API response did not provide significant insights into DVN performance based on the selected metrics, I hope that the upcoming LayerZero API will enable more comprehensive analysis. Beyond the airdrop design, it would be fascinating to work on Omnichain application (OApp) analysis, leveraging data from different blockchain networks simultaneously.
 
 ## Links 
-(LayerZero White Paper)[https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf]
-(LayerZero Scan)[https://layerzeroscan.com/]
-(Check API Response)[https://support.demandbase.com/hc/en-us/articles/7484772828187-Check-API-Response]
-(Dune Analytics)[https://dune.com/home]
+[LayerZero White Paper](https://layerzero.network/publications/LayerZero_Whitepaper_V2.1.0.pdf)
+[LayerZero Scan](https://layerzeroscan.com/)
+[Check API Respons]([https://support.demandbase.com/hc/en-us/articles/7484772828187-Check-API-Response)
+[Dune Analytics](https://dune.com/home)
