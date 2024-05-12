@@ -3,7 +3,7 @@
   <em>LayerZero AirDrop Design Project Process</em>
 </p>
 
-## Introduction to LayerZero
+### Introduction to LayerZero
 
 LayerZero is a novel technology that enables the scaling of blockchain networks by introducing the Omnichain concept, which facilitates seamless integration between different blockchain networks.
 
