@@ -1,4 +1,7 @@
-# LZ-AirDrop-Design: LayerZero AirDrop Design Project Process
+<p align="center">
+  <strong>LZ-AirDrop-Design</strong><br>
+  <em>LayerZero AirDrop Design Project Process</em>
+</p>
 
 ## Introduction to LayerZero
 
