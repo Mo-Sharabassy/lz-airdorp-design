@@ -40,3 +40,9 @@ Although the data from the API response did not provide significant insights int
 - [LayerZero Scan](https://layerzeroscan.com/)
 - [Check API Response](https://support.demandbase.com/hc/en-us/articles/7484772828187-Check-API-Response)
 - [Dune Analytics](https://dune.com/home)
+
+---
+
+<div style="position: fixed; bottom: 0; right: 0; font-size: 10px; padding: 5px; margin: 5px; background-color: #ddd; border: 1px solid #ccc; border-radius: 5px;">
+  Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+</div>
